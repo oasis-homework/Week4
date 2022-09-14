@@ -7,7 +7,7 @@ public class Week4 {
 	// Tim gia tri nho nhat cua 1 mang so nguyen
     }
 
-    public static String calculateBMI(int weight, int height){
+    public static String calculateBMI(double weight,double height){
 	// Tinh BMI
     }
 }
